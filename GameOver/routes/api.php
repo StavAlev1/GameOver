@@ -20,3 +20,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 
 Route::post('/quotes', [QuoteController::class, 'quote']);
+
+Route::get('/testing', [QuoteController::class, 'testing']);
