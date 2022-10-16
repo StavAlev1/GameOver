@@ -1,4 +1,7 @@
 
 ## GameOver Assignment
 
-We update this when we ready
+### Database and Migration
+
+- Run the command 
+
